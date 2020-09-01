@@ -11,12 +11,13 @@ Some bugs might occur but they should only be based on environment incompatibili
 
 __Experiments__
 
-| NAME  | CONTEXT |
+| NAME  | DESCRIPTION |
 | ------------- | ------------- |
 | Lidar Hardware  | Lidar Interfacing  |
 | Lidar Connections  | Lidar Interfacing  |
 | Lidar Real Time Voxelisation  | PC Prototyping, ROS  |
 | Independent Voxelisation  | PC Prototyping, ROS  |
+| MLS  | PC, PCL, Undersampling Clouds  |
 
 
 __Demo Runs__
@@ -27,9 +28,15 @@ __Demo Runs__
 
 
 
+## Shorthands Used
+
+- PC : Point Cloud
+- PCL : Point Cloud Library
 
 
 
+
+---------------------------------------------------------------
 
 __Uday Shankar__<br/>
 __Samarth Negi__
