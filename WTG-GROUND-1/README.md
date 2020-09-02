@@ -18,3 +18,13 @@ OUTPUT = Coordinates generated in the form of a KML file. <br/>
 1. Entire workspace is present in this repo.
 2. Create a new Catkin workspace and Initialize it. 
 3. Clone this repo in source and start it. THAT IS IT. 
+
+
+
+## PRE TEST 
+### Checklist
+- [ ] Lidar-GPS Correlation 
+- [ ] Lidar-GPS Correlation Testing : __field testing__
+- [ ] Flight Path Generation based on windmill coordinates [uday]
+- [ ] Flight Path Verification : __field testing__ : Overlap LOGS and Model Mill 
+- [ ] Mill Testing : __field testing__ :internal poc thing 
